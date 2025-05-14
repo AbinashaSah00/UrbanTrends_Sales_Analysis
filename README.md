@@ -39,3 +39,15 @@ This project simulates a freelance data analysis engagement for a UK-based fashi
 
 ## ✅ Status
 Complete — added to portfolio as a freelance-style data consulting project.
+
+---
+
+## ✍️ Author
+
+**Abinash Sahoo**  
+*"Believe it until you make it."*
+*"Building from rock bottom to relentless 🚀"*
+
+- GitHub: [abinashsahoo00](https://github.com/abinashsahoo00)
+- LinkedIn: [Abinash Sahoo](https://www.linkedin.com/in/abinash-sahoo/)
+- Notion: [Abinash Sahoo](https://www.notion.so/Hey-there-I-am-Abinash-Sahoo-1dfe544fcbea80ef973eec9fd705f513?pvs=4)
