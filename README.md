@@ -1,53 +1,103 @@
-# UrbanTrends Sales Intelligence Dashboard
+# 🛍️ UrbanTrends Sales Intelligence Dashboard
 
-This project simulates a freelance data analysis engagement for a UK-based fashion brand. The goal was to deliver actionable insights from transactional sales data using SQL for cleaning and Power BI for visualization.
+This project simulates a freelance-style data analysis engagement for a **UK-based retail fashion brand**. The primary goal was to derive **actionable sales insights** from transactional data using **MySQL for data preparation** and **Power BI for interactive dashboarding**.
+
+---
+
+## 📌 Business Context
+
+In the competitive retail landscape, understanding **sales trends**, **return behavior**, and **customer performance** is critical for optimizing operations, inventory planning, and marketing strategies. This analysis was designed to **mirror real-world challenges faced by category managers and retail analysts**.
+
+---
+
+## 🎯 Problem Statement
+
+> How can a retail fashion brand analyze its historical sales data to uncover trends, optimize inventory, and improve product performance?
+
+---
+
+## 💡 Project Objectives
+
+- Analyze monthly sales and return trends across product categories  
+- Identify **top customers** and **low-performing products**  
+- Visualize regional sales patterns using interactive filters  
+- Extract insights for strategic decisions in pricing, stocking, and promotions
+
+---
 
 ## 📊 Dashboard Preview
-![Dashboard_Screenshot](https://github.com/user-attachments/assets/f5b36763-1587-46ea-9d14-56689d059e93)
 
+![UrbanTrends Dashboard](assets/dashboard_screenshot1.png)
 
+---
 
-## 🧾 Project Goals
-- Identify sales and return trends across months and categories
-- Highlight top-performing customers and bottom-performing products
-- Provide region/sales rep-based filters for flexible analysis
-- Recommend insights for inventory and product strategy
+## 🧰 Tools & Technologies
 
-## 🧰 Tools Used
-- MySQL (data cleaning & transformation)
-- Power BI (dashboard design & business storytelling)
-- Excel (manual tweaks & export)
-- Jupyter Notebook (EDA - optional, not included here)
+- **MySQL** – Data cleaning and transformation  
+- **Power BI** – Data modeling, visual storytelling  
+- **Excel** – Export/format tweaks for dashboard readiness  
 
-## 📌 KPIs Tracked
-- Total Revenue
-- Return Rate by Category
-- Top 5 Customers by Spend
-- Sales Trend by Month
-- Category-wise Sales Distribution
+---
 
-## 🧠 Key Insights
-- November–December spike due to holiday season
-- Footwear has the highest return rate (~34.3%)
-- Loafers and Sunglasses were least performing items
-- 5 customers account for 30% of sales
+## 📈 KPIs Tracked
+
+- Total Revenue  
+- Return Rate by Category  
+- Top 5 Customers by Sales  
+- Monthly Sales Trend  
+- Category-wise Sales Distribution  
+- Region-based Sales Performance  
+
+---
+
+## 🧠 Key Business Insights
+
+- **November–December spike** due to holiday promotions  
+- **Footwear** had the highest return rate (~34.3%) — potential inventory or quality issue  
+- **Loafers and Sunglasses** were least performing by revenue  
+- **Top 5 customers** contributed ~30% of total revenue — signals loyalty segment  
+- **Region B** outperformed others — possible focus for upselling  
+
+---
+
+## 🧾 Retail Industry Relevance
+
+This type of dashboard is directly applicable in:
+- Fashion & Apparel Chains  
+- E-commerce Retailers  
+- Department Stores  
+- Retail BI/Analytics Teams  
+
+It serves as a key asset for:
+- **Sales Operations**  
+- **Category Managers**  
+- **Inventory Planners**  
+- **Customer Experience Analysts**
+
+---
 
 ## 🔗 Deliverables
-- `UrbanTrends_Sales.pbix` — Power BI dashboard
-- `assets/` — Dashboard image for portfolio/LinkedIn
-- Optional SQL scripts for backend cleaning (available on request)
+
+- `UrbanTrends_Sales.pbix` – Final Power BI dashboard  
+- `/assets/` – Dashboard screenshots for LinkedIn & portfolio  
+- *(Optional)* SQL scripts for backend cleaning – available on request
+
+---
 
 ## ✅ Status
-Complete — added to portfolio as a freelance-style data consulting project.
+
+**Complete** – Actively used in portfolio and recruiter outreach to demonstrate domain understanding and dashboarding skills.
 
 ---
 
 ## ✍️ Author
 
 **Abinash Sahoo**  
-*"Believe it until you make it."*
-*"Building from rock bottom to relentless 🚀"*
+> “Believe it until you make it.”  
+> Building from rock bottom to relentless 🚀
 
-- GitHub: [abinashsahoo00](https://github.com/abinashsahoo00)
-- LinkedIn: [Abinash Sahoo](https://www.linkedin.com/in/abinash-sahoo/)
-- Notion: [Abinash Sahoo](https://www.notion.so/Hey-there-I-am-Abinash-Sahoo-1dfe544fcbea80ef973eec9fd705f513?pvs=4)
+- GitHub: [abinashsahoo00](https://github.com/AbinashaSah00)  
+- LinkedIn: [Abinash Sahoo](https://www.linkedin.com/in/abinashsahoo00)  
+- Notion Portfolio: [Abinasha_Sahoo](https://www.notion.so/Hey-there-I-am-Abinash-Sahoo-1dfe544fcbea80ef973eec9fd705f513)
+
+---
