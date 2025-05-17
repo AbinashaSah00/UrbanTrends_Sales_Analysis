@@ -28,7 +28,7 @@ In the competitive retail landscape, understanding **sales trends**, **return be
 ## 📊 Dashboard Preview
 
 ![UrbanTrends Dashboard](Assets/Dashboard_Screenshot.png)
-![Screenshot](Assets/Screenshot 2025-05-17 104735.png)
+![Screenshot](Assets/Screenshot%202025-05-17%20104735.png)
 
 ---
 
